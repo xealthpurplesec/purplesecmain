@@ -2,7 +2,7 @@
 
 Authors: [Cody Wishart](https://github.com/cwishart1) [Carsten Rossen](https://github.com/carsten-rossen) [Jansen Lefever](https://github.com/JansenLefever)
 
-Description: In this mock scenario due to a recent audit, our client's cloud infrastructure is in need of revision. The client needs a fully operational cyber threat detection and response to mitigate possible data exfiltration. Among other threats, we will be specifically defending against HIPAA-classified data exfiltration as stated earlier. 
+Description: In this mock scenario due to a recent audit, our client's cloud infrastructure is in need of revision. The client needs fully operational cyber threat detection and response systems to mitigate possible data exfiltration. Among other threats, we will be specifically defending against HIPAA-classified data exfiltration. 
 
 Required Systems:
 - Proper IAM for all team members must be implemented using AWS best practices
