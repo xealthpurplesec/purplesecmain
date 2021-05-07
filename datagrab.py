@@ -6,11 +6,11 @@ import os
 
 import smtplib
 
-fromaddr = 'thejanman19@gmail.com'  
-toaddrs  = 'thejanman19@gmail.com'   
+fromaddr = '****************.com'  
+toaddrs  = '****************.com'   
 
-username = 'thejanman19'  
-password = 'Spamthis'
+username = '*********'  
+password = '*******'
 
 # User enters filepath
 filepath = input("Enter File path \n>:")
