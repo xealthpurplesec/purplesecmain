@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# Name: Data Grab
+# Date: 5/6/21
+# Contributors: Jansen Lefever and Carsten Rossen
+# Purpose: Walk through a directory, add information to a text file, and send in an email.
+
 # Imports libraries 
 
 import os
