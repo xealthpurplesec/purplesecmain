@@ -12,8 +12,8 @@ Required Systems:
 - DLP controls
 
 Required Deliverables:
-- Risk Assessment Worksheet
-- Security Assessment Report (SAR)
-- Data Security Policy
-- Cloud Security Policy
-- Security Architecture Narrative
+- [Risk Assessment Worksheet](https://drive.google.com/file/d/1yoM33RiI0PjG8Y-zQbogu97-0qDfXT21/view?usp=sharing)
+- [Security Assessment Report (SAR)](https://drive.google.com/file/d/1nCAIvdFxBYP-0jKHNOKgm8QbTxP1W9HE/view?usp=sharing)
+- [Data Security Policy](https://drive.google.com/file/d/1V_B61JrAk0B5BHzBA_PbEbb4SyfWllf6/view?usp=sharing)
+- [Cloud Security Policy](https://drive.google.com/file/d/112_ETeO-qCeMndMsnwce5u6otM0PtbZn/view?usp=sharing)
+- [Security Architecture Narrative](https://drive.google.com/file/d/1UZCIz6mIDbmN1WDRZ40GUY78RSvzBzqd/view?usp=sharing)
